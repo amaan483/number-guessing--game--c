@@ -5,6 +5,7 @@ This is a simple number guessing game written in c language. The program creates
 
 ### Using GCC:
 gcc numbergame.c
+
 ./a.exe
 ## output
 Please enter a guess between (1-100) : 84
