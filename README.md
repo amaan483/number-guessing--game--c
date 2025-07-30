@@ -8,9 +8,15 @@ gcc numbergame.c
 ./a.exe
 ## output
 Please enter a guess between (1-100) : 84
+
 Please enter a smaller number
+
 Please enter a guess between (1-100) : 11
+
 please enter a larger number
+
 Please enter a guess between (1-100) : 13
+
 Congratulations! You have successfully guessed the number in 3 tries.
+
 Thank you for playing my game.
